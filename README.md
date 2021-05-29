@@ -6,7 +6,7 @@ Simple, pretty and powerful logger for android
 ### Setup
 Download
 ```groovy
-implementation 'com.himphen:logger:1.0.0'
+implementation 'com.himphen:logger:v3.0.0'
 ```
 
 Initialize
